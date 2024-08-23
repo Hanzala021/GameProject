@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This site is built with the combinayion of above three technologies 
+This site is built with the combination of above three technologies 
 node_modules are added in the repository.
 
 Currently, two official plugins are available:
